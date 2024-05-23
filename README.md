@@ -12,6 +12,9 @@ Here is a table listing HDMI to USB/UVC adapters that are known to work or not w
 | [Maravillosa tarjeta de captura de video, maravillosa 4K HDMI a 1080P USB C para juegos](https://www.amazon.es/gp/product/B093D6824V/) | ??? | Awaiting Testing |
 | [XIIXMASK capturadora de Video, capturadora Audio y Video, Tarjeta de Captura USB 3.0 4K HDMI Loop-out, 1080P 60FPS/2K 30FPS](https://www.amazon.es/dp/B0CP659ZSV) | ❌ | Flashing Video |
 | [Adaptador USB C HDMI,Adaptador USB C a HDMI 4K Adaptador Thunderbolt 3 a HDMI](https://www.amazon.es/dp/B0C9MD3WHP) | ❌ | Flashing Video |
+| [Blackmagic WebPresenter HD (SDI->USB-C)](https://www.blackmagicdesign.com/de/products/blackmagicwebpresenter)  | ✅ | Works with any FullHD framerate up to 60fps |
+| [Blackmagic UltraStudio Recorder 3G (SDI->Thunderbolt 4)](https://www.blackmagicdesign.com/de/products/ultrastudio/techspecs/W-DLUS-12)  | ❌ | Thunderbolt devices not supported yet (iOs restriction or Mix Effect update necessary?)  |
+| [AVerMedia Live Gamer Portable 2 (HDMI->USB-A)](https://www.avermedia.com/de/product-detail/GC510)  | ❌ | Black Screen, no Image at all |
 
 To add your HDMI-to-USB/UVC adapter to this table, fork this repo, make your change, and submit a pull request. Follow the format of the other entries in this document as your guide:
 
